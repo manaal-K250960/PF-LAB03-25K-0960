@@ -7,4 +7,16 @@ _AOA,I AM MANAAL MEHTAB,STUDENT AT FAST NUCES KHI ,BATCH 2029.I AM CURRENTLY DOI
 -_IM INTERESTED IN HACKING AND WEB DEVELOPMENT._
 -_I WANT TO PURSUE CYBER SECURITY AS MY CARRER PATH._
 
+# HOBBIES AND PERSONAL INTERESTS
+1. playing basketball
+2. cooking
+3. coding
+
+ **_following is the list of the books I have read:_**
+ - To kill a Mocking Bird
+ - The Great Gatsby
+ - Harry Potter
+ - The Lord of the Rings
+   
+
 
